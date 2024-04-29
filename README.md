@@ -33,4 +33,4 @@ If you're passionate about building and nurturing developer communities, we'd lo
 Upon acceptance, you'll go through an onboarding process and self-paced training to equip you with the necessary skills and resources to succeed as a community leader.
 5. If accepted, you'll receive an onboarding package and be connected with a DevRel lead to guide you through your journey.
 
-We look forward to having you as part of our global community of leaders! If you have any questions, feel free to leave a question in this Discussion.
+We look forward to having you as part of our global community of leaders! If you have any questions, feel free to leave a question in this [Discussion](https://github.com/gittogethers/community-leaders/discussions/categories/program-questions).
