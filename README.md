@@ -18,7 +18,6 @@ GitHub Community Leaders are technical and non-technical individuals who help dr
 | Alejandra Perez | [@aleepsy](https://github.com/aleepsy) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/aleepsy?s=64) |
 | Denny Perez | [@DennyPerez18](https://github.com/DennyPerez18) | República Dominicana | GMT-5 | ![](https://avatars.githubusercontent.com/DennyPerez18?s=64) |
 | Kevin Villatoro | [@Shockerex](https://github.com/Shockerex) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/Shockerex?s=64) |
-| Oscar Barajas | [@gndx](https://github.com/gndx) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/gndx?s=64) |
 | Cesar Méndez | [@devcsar](https://github.com/devcsar) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
 | Gustavo Jimenez | [@tavodev](https://github.com/tavodev) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
 | Dorian Hidalgo | [@dahidalgo](https://github.com/dahidalgo) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/dahidalgo?s=64) |
