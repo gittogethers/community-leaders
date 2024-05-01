@@ -16,5 +16,5 @@ In the form, you'll be asked to provide the following information:
 3. **Experience:** Your background in open-source development and any previous experience in organizing community events.
 4. **Motivation:** Your reasons for wanting to become a GitHub Community Leader and what you hope to achieve in this role.
 
-Once you've submitted your self-nomination form, our team will review your application and get back to you within a few weeks. If your application is successful, you'll be invited to you'll be invited to an onboarding session where you'll learn more about the program, meet other community leaders, and start planning your first event.
+Once you've submitted your self-nomination form, our team will review your application and get back to you within a few weeks. If your application is successful, you'll be invited to an onboarding session where you'll learn more about the program, meet other community leaders, and start planning your first event.
 
