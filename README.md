@@ -8,7 +8,7 @@ Learn how to join, contribute, and drive impactful meetups worldwide.
 
 ## Who are the leaders?
 
-GitHub Community Leaders are technical or non-technical individuals who help drive the developer community in their region through GitTogether events, virtual live streams, and other activities. They are passionate about fostering collaboration, sharing knowledge, and building strong developer communities.
+GitHub Community Leaders are technical and non-technical individuals who help drive the developer community in their region through GitTogether events, virtual live streams, and other activities. They are passionate about fostering collaboration, sharing knowledge, and building strong developer communities.
 
 ## Current Leadership
 
