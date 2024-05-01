@@ -12,15 +12,28 @@ GitHub Community Leaders are technical and non-technical individuals who help dr
 
 ## Current Leadership
 
-| Name | Location | Expertise | GitHub Profile |
-|------|----------|-----------|----------------|
+| Name | GitHub Username | City/Country | Time Zone | Avatar |
+|---|---|---|---|---| 
+| Manuel Ortiz | [@ManuOSMx](https://github.com/manuosmx) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/manuosmx?s=64) |
+| Alejandra Perez | [@aleepsy](https://github.com/aleepsy) | México/MX | GMT-6 | ![](https://avatars.githubusercontent.com/aleepsy?s=64) |
+| Denny Perez | [@DennyPerez18](https://github.com/DennyPerez18) | República Dominicana | GMT-5 | ![](https://avatars.githubusercontent.com/DennyPerez18?s=64) |
+| Kevin Villatoro | [@Shockerex](https://github.com/Shockerex) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/Shockerex?s=64) |
+| Oscar Barajas | [@gndx](https://github.com/gndx) | Medellín/CO | GMT-5 | ![](https://avatars.githubusercontent.com/gndx?s=64) |
+| Cesar Méndez | [@devcsar](https://github.com/devcsar) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
+| Gustavo Jimenez | [@tavodev](https://github.com/tavodev) | Villahermosa/MX | GMT-6 | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
+| Dorian Hidalgo | [@dahidalgo](https://github.com/dahidalgo) | Guatemala/GT | GMT-6 | ![](https://avatars.githubusercontent.com/dahidalgo?s=64) |
+| Diego Vallejos | [@dvalleit](https://github.com/dvalleit) | Santiago/CL | GMT-3 | ![](https://avatars.githubusercontent.com/dvalleit?s=64) |
+| Oliver Fierro | [@OliverFierro77](https://github.com/oliverfierro77) | Santiago/CL | GMT-3 | ![](https://avatars.githubusercontent.com/oliverfierro77?s=64) |
+| Geraldo Castro| [@exageraldo](https://github.com/exageraldo) | Florianópolis, SC | BRT | ![](https://avatars.githubusercontent.com/exageraldo?s=64) |
+| Bruno Lopes | [@brunolopesjn](https://github.com/brunolopesjn) | Fortaleza, CE | BRT | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64) |
+
 
 
 ## Notable Program Alumni
 
 | Name | Location | Expertise | GitHub Profile | Achievements |
 |------|----------|-----------|----------------|--------------|
-
+| Morganna Giovanelli | [@morgannadev](https://github.com/morgannadev) | São Paulo, SP | BRT | ![](https://avatars.githubusercontent.com/morgannadev?s=64) |
 
 ## Interested in becoming a leader?
 
