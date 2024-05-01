@@ -30,9 +30,9 @@ GitHub Community Leaders are technical and non-technical individuals who help dr
 
 ## Notable Program Alumni
 
-| Name | Location | Expertise | GitHub Profile | Achievements |
-|------|----------|-----------|----------------|--------------|
-| Morganna Giovanelli | São Paulo, SP  | DevRel | [@morgannadev](https://github.com/morgannadev) | Founding member |
+| Name | Location |   GitHub Profile | Achievements |
+|------|----------|-----------|----------------|
+| Morganna Giovanelli | São Paulo, SP   | [@morgannadev](https://github.com/morgannadev) | Founding member |
 
 ## Interested in becoming a leader?
 
