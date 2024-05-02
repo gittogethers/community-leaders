@@ -39,7 +39,7 @@ GitHub Community Leaders are technical and non-technical individuals who help dr
 If you're passionate about building and nurturing developer communities, we'd love to have you join our program! Here's how you can get started:
 
 1. Review the [GitHub Community Leaders Program Guidelines](hprogram/guidelines.md) to understand the responsibilities and expectations.
-2. Fill out the [self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLScDFfPzAhhodFyt4aJy7j_umMc6ifjribc-hw4r-EuzNtZf8w/viewform)) with your details.
+2. Fill out the [self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLScDFfPzAhhodFyt4aJy7j_umMc6ifjribc-hw4r-EuzNtZf8w/viewform).
 3. Our team will review your application and get back to you within 2 weeks.
 4. If shortlisted, you'll be invited for a video interview to discuss your application and community engagement plan in more detail.
 Upon acceptance, you'll go through an onboarding process and self-paced training to equip you with the necessary skills and resources to succeed as a community leader.
