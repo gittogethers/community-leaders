@@ -1,6 +1,6 @@
-# GitHub Community Leaders
+# GitHub Community Meetups
 
-Welcome to the GitHub Community Leaders Program repository!
+Welcome to the GitHub Community Leaders repository!
 
 Here, you'll find public information about our program designed to empower passionate individuals to become leaders in their local tech communities.
 
