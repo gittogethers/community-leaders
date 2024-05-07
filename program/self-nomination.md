@@ -7,7 +7,7 @@ As a GitHub Community Leader, you'll have the opportunity to connect with like-m
 ## Self-Nomination Form
 
 To apply for the GitHub Community Leader Program, please complete our self-nomination form. You can access the form by clicking on the following link:
-[Self-Nomination Form](https://example.com/self-nomination)
+[Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScDFfPzAhhodFyt4aJy7j_umMc6ifjribc-hw4r-EuzNtZf8w/viewform)
 
 In the form, you'll be asked to provide the following information:
 
