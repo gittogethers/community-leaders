@@ -2,9 +2,7 @@
 
 Welcome to the GitHub Community Leaders repository!
 
-Here, you'll find public information about our program designed to empower passionate individuals to become leaders in their local tech communities.
-
-Learn how to join, contribute, and drive impactful meetups worldwide.
+Here, you'll find public information about the GitHub Community Leaders. Learn how to join, contribute, and drive impactful meetups worldwide.
 
 ## Who are the leaders?
 
