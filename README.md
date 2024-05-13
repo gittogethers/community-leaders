@@ -23,6 +23,7 @@ GitHub Community Leaders are technical and non-technical individuals who help dr
 | Oliver Fierro | [@OliverFierro77](https://github.com/oliverfierro77) | Santiago/CL | GMT-3 | ![](https://avatars.githubusercontent.com/oliverfierro77?s=64) |
 | Geraldo Castro| [@exageraldo](https://github.com/exageraldo) | Florianópolis, SC | BRT | ![](https://avatars.githubusercontent.com/exageraldo?s=64) |
 | Bruno Lopes | [@brunolopesjn](https://github.com/brunolopesjn) | Fortaleza, CE | BRT | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64) |
+| Pamela Rosales | [@pamelars86](https://github.com/pamelars86) | Limeira, SP | BRT | ![](https://avatars.githubusercontent.com/pamelars86?s=64) |
 
 
 
