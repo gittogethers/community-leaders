@@ -6,6 +6,8 @@ Welcome 🎉 to the GitHub Community Leaders repository! This repository contain
 
 GitHub Community Leaders are both technical and non-technical individuals who play a pivotal role in driving the developer community in their respective regions. They achieve this through various activities such as GitTogether events, virtual live streams, and other community-driven initiatives. 
 
+Here, you'll find public information about the GitHub Community Leaders. Learn how to join, contribute, and drive impactful meetups worldwide.
+
 ## Objectives 🎯
 The primary objectives of this program are to foster collaboration, facilitate the sharing of knowledge, and cultivate strong developer communities worldwide.
 
@@ -24,8 +26,7 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | Oliver Fierro | [@OliverFierro77](https://github.com/oliverfierro77) | Santiago/CL | GMT-3 | ![](https://avatars.githubusercontent.com/oliverfierro77?s=64) |
 | Geraldo Castro| [@exageraldo](https://github.com/exageraldo) | Florianópolis, SC | BRT | ![](https://avatars.githubusercontent.com/exageraldo?s=64) |
 | Bruno Lopes | [@brunolopesjn](https://github.com/brunolopesjn) | Fortaleza, CE | BRT | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64) |
-
-
+| Pamela Rosales | [@pamelars86](https://github.com/pamelars86) | Limeira, SP | BRT | ![](https://avatars.githubusercontent.com/pamelars86?s=64) |
 
 ## Notable Program Alumni
 
