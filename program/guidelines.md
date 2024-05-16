@@ -70,7 +70,7 @@ As a GitHub Community Leader, you will enjoy:
 - 🎟️ Invitations to GitHub's exclusive events, where you can connect with other community leaders, learn from experts, and gain valuable insights.
 - 🏆 Recognition and resources from GitHub for your dedication and hard work as a community leader, along with support and guidance to help you grow and succeed in your role.
 
-If this opportunity resonates with you and you're ready to make a difference in your local tech community, we encourage you to take the first step by completing our self-nomination form. By filling out this form, you'll have the chance to share your passion, experience, and vision for empowering developers in your area. Don't miss this opportunity to become a driving force in the open-source movement and leave a lasting impact on the lives of fellow developers.
+If this opportunity resonates with you and you're ready to make a difference in your local tech community, we encourage you to take the first step by completing our [self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLScDFfPzAhhodFyt4aJy7j_umMc6ifjribc-hw4r-EuzNtZf8w/viewform). By filling out this form, you'll have the chance to share your passion, experience, and vision for empowering developers in your area. Don't miss this opportunity to become a driving force in the open-source movement and leave a lasting impact on the lives of fellow developers.
 
 Apply now and let's build a stronger, more connected community together!
 
