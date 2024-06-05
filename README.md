@@ -28,6 +28,7 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | Bruno Lopes     | [@brunolopesjn](https://github.com/brunolopesjn)     | Fortaleza, CE           | BRT       | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64)   |
 | Juliana Conde   | [@julianaconde](https://github.com/brunolopesjn)     | São José dos Campos, SP | BRT       | ![](https://avatars.githubusercontent.com/julianaconde?s=64)   |
 | Pamela Rosales  | [@pamelars86](https://github.com/pamelars86)         | Limeira, SP             | BRT       | ![](https://avatars.githubusercontent.com/pamelars86?s=64)     |
+| IracelmaPanzo | [@Iracelma9](https://github.com/Iracelma9)         | Luanda, Angola             | UTC+1      |https://avatars.githubusercontent.com/u/115271106?s=400&u=5f70ebb8d0a098eef97e0e8565d4839500c260fa&v=4
 
 ## Notable Program Alumni
 
