@@ -24,11 +24,20 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | Dorian Hidalgo  | [@dahidalgo](https://github.com/dahidalgo)           | Guatemala/GT            | GMT-6     | ![](https://avatars.githubusercontent.com/dahidalgo?s=64)      |
 | Diego Vallejos  | [@dvalleit](https://github.com/dvalleit)             | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/dvalleit?s=64)       |
 | Oliver Fierro   | [@OliverFierro77](https://github.com/oliverfierro77) | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/oliverfierro77?s=64) |
+| Ignacio Palma   | [@IgnacioPalma](https://github.com/ignaciopalma)     | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/ignaciopalma?s=64)   |
 | Geraldo Castro  | [@exageraldo](https://github.com/exageraldo)         | Florianópolis, SC       | BRT       | ![](https://avatars.githubusercontent.com/exageraldo?s=64)     |
 | Bruno Lopes     | [@brunolopesjn](https://github.com/brunolopesjn)     | Fortaleza, CE           | BRT       | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64)   |
 | Juliana Conde   | [@julianaconde](https://github.com/brunolopesjn)     | São José dos Campos, SP | BRT       | ![](https://avatars.githubusercontent.com/julianaconde?s=64)   |
 | Pamela Rosales  | [@pamelars86](https://github.com/pamelars86)         | Limeira, SP             | BRT       | ![](https://avatars.githubusercontent.com/pamelars86?s=64)     |
-| Magalhães de Lemos  | [@mexlemos](https://github.com/mexlemos)         | Luanda, AO              | GMT+1       | ![](https://https://avatars.githubusercontent.com/mexlemos)     |
+| António Pedro   | [@antonio-pedro99](https://github.com/antonio-pedro99)| Luanda, Angola         | GMT+1     | ![](https://avatars.githubusercontent.com/antonio-pedro99?s=64)|
+| Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/u/26822098?v=4)      |
+| Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     |                                                                |
+| IracelmaPanzo   | [@Iracelma9](https://github.com/Iracelma9)           | Luanda, Angola          | UTC+1     | ![](https://avatars.githubusercontent.com/Iracelma9?s=64) |                                                            |
+| Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/JeanPaulYps?s=64)      |
+| Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     | ![](https://avatars.githubusercontent.com/espotti?s=64)      |                                                        
+| Magalhães de Lemos | [@mexlemos](https://github.com/mexlemos)   | Luanda, AO | GMT+1    | ![](https://avatars.githubusercontent.com/mexlemos?s=64) |
+|
+
 
 
 ## Notable Program Alumni
