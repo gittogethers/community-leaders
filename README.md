@@ -24,6 +24,7 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | Dorian Hidalgo  | [@dahidalgo](https://github.com/dahidalgo)           | Guatemala/GT            | GMT-6     | ![](https://avatars.githubusercontent.com/dahidalgo?s=64)      |
 | Diego Vallejos  | [@dvalleit](https://github.com/dvalleit)             | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/dvalleit?s=64)       |
 | Oliver Fierro   | [@OliverFierro77](https://github.com/oliverfierro77) | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/oliverfierro77?s=64) |
+| Ignacio Palma   | [@IgnacioPalma](https://github.com/ignaciopalma)     | Santiago/CL             | GMT-3     | ![](https://avatars.githubusercontent.com/ignaciopalma?s=64)   |
 | Geraldo Castro  | [@exageraldo](https://github.com/exageraldo)         | Florianópolis, SC       | BRT       | ![](https://avatars.githubusercontent.com/exageraldo?s=64)     |
 | Bruno Lopes     | [@brunolopesjn](https://github.com/brunolopesjn)     | Fortaleza, CE           | BRT       | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64)   |
 | Juliana Conde   | [@julianaconde](https://github.com/brunolopesjn)     | São José dos Campos, SP | BRT       | ![](https://avatars.githubusercontent.com/julianaconde?s=64)   |
