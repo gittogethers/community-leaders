@@ -32,7 +32,8 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | IracelmaPanzo   | [@Iracelma9](https://github.com/Iracelma9)           | Luanda, Angola          | UTC+1     | ![](https://avatars.githubusercontent.com/Iracelma9?s=64) |                                                            |
 | Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/JeanPaulYps?s=64)      |
 | Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     | ![](https://avatars.githubusercontent.com/espotti?s=64)      |                                                        
-
+| Magalhães de Lemos | [@mexlemos](https://github.com/mexlemos)   | Luanda, AO | GMT+1    | ![](https://avatars.githubusercontent.com/mexlemos?s=64) |
+|
 
 ## Notable Program Alumni
 
