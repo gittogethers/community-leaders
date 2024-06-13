@@ -29,8 +29,8 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | Bruno Lopes     | [@brunolopesjn](https://github.com/brunolopesjn)     | Fortaleza, CE           | BRT       | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64)   |
 | Juliana Conde   | [@julianaconde](https://github.com/brunolopesjn)     | São José dos Campos, SP | BRT       | ![](https://avatars.githubusercontent.com/julianaconde?s=64)   |
 | Pamela Rosales  | [@pamelars86](https://github.com/pamelars86)         | Limeira, SP             | BRT       | ![](https://avatars.githubusercontent.com/pamelars86?s=64)     |
-| Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/u/26822098?v=64)      |
-| Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     | ![](https://avatars.githubusercontent.com/u/espotti?v=64)      |                                                        
+| Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/JeanPaulYps?s=64)      |
+| Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     | ![](https://avatars.githubusercontent.com/espotti?s=64)      |                                                        
 
 ## Notable Program Alumni
 
