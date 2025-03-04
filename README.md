@@ -33,10 +33,15 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | IracelmaPanzo   | [@Iracelma9](https://github.com/Iracelma9)           | Luanda, Angola          | UTC+1     | ![](https://avatars.githubusercontent.com/Iracelma9?s=64) |                                                            |
 | Jean Paul Yepes | [@JeanPaulYps](https://github.com/JeanPaulYps)       | Medellín, CO            | GMT-5     | ![](https://avatars.githubusercontent.com/JeanPaulYps?s=64)      |
 | Eduardo Spotti  | [@espotti](https://github.com/espotti)               | Buenos Aires, AR        | GMT-3     | ![](https://avatars.githubusercontent.com/espotti?s=64)        |                                                        
-| Magalhães de Lemos | [@mexlemos](https://github.com/mexlemos)   | Luanda, AO | GMT+1    | ![](https://avatars.githubusercontent.com/mexlemos?s=64) 
-  |
-
-
+| Magalhães de Lemos | [@mexlemos](https://github.com/mexlemos)          | Luanda, AO              | GMT+1     | ![](https://avatars.githubusercontent.com/mexlemos?s=64)       |
+| Swaminathan Vetri | [@swaminathanvetri](https://github.com/swaminathanvetri) | Bengaluru, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/swaminathanvetri?s=64) |
+| Ritvi Mishra | [@Frenzyritz13](https://github.com/Frenzyritz13) | Bengaluru, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/Frenzyritz13?s=64) |
+| Aditya Sharma | [@eraditya-sharma](https://github.com/eraditya-sharma) | Bengaluru, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/eraditya-sharma?s=64) |
+| Tanmaiyee Vadloori | [@Tanmaiyee-Vadloori](https://github.com/Tanmaiyee-Vadloori) | Hyderabad, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/Tanmaiyee-Vadloori?s=64) |
+| Vipul Gupta | [@vipulgupta2048](https://github.com/vipulgupta2048) | Delhi NCR, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/vipulgupta2048?s=64) |
+| Shivay Lamba | [@shivaylamba](https://github.com/shivaylamba) | Delhi NCR, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/shivaylamba?s=64) |
+| Chhavi Garg | [@chhavi-gg](https://github.com/chhavi-gg) | Delhi NCR, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/chhavi-gg?s=64) |
+| Augustine Correa | [@indcoder](https://github.com/indcoder) | Mumbai, India | IST/GMT+5:30 | ![](https://avatars.githubusercontent.com/indcoder?s=64) |
 
 ## Notable Program Alumni
 
