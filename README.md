@@ -1,15 +1,8 @@
-# GitHub Community Leaders
+# GitTogether Community Leaders
 
-Welcome 🎉 to the GitHub Community Leaders repository! This repository contains public information about our program, designed to empower passionate individuals to become leaders in their local tech communities.
+The primary objectives of this program are to foster collaboration, facilitate the sharing of knowledge, and cultivate strong developer communities worldwide 🌏
 
-## About the Program ℹ️
-
-GitHub Community Leaders are both technical and non-technical individuals who play a pivotal role in driving the developer community in their respective regions. They achieve this through various activities such as GitTogether events, virtual live streams, and other community-driven initiatives. 
-
-Here, you'll find public information about the GitHub Community Leaders. Learn how to join, contribute, and drive impactful meetups worldwide.
-
-## Objectives 🎯
-The primary objectives of this program are to foster collaboration, facilitate the sharing of knowledge, and cultivate strong developer communities worldwide.
+GitTogether Community Leaders are individuals who play a pivotal role in driving the developer community in their respective regions. They achieve this through various activities such as GitTogethers, virtual live streams, and other community-driven initiatives 💡
 
 ## Current Leadership
 
