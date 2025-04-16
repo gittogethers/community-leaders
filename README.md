@@ -44,21 +44,3 @@ The primary objectives of this program are to foster collaboration, facilitate t
 | LATAM | Brazil | [SJC](https://github.com/gittogethers/sjc) | GMT-3 | [Juliana Conde](https://github.com/julianaconde) | ![](https://avatars.githubusercontent.com/julianaconde?s=64) |
 | LATAM | Mexico | [Villahermosa](https://github.com/gittogethers/villahermosa) | GMT-6 | [Cesar Méndez](https://github.com/devcsar) | ![](https://avatars.githubusercontent.com/devcsar?s=64) |
 | LATAM | Mexico | [Villahermosa](https://github.com/gittogethers/villahermosa) | GMT-6 | [Gustavo Jimenez](https://github.com/tavodev) | ![](https://avatars.githubusercontent.com/tavodev?s=64) |
-
-## Notable Program Alumni
-
-| Name                | Location      | GitHub Profile                                 | Achievements    |
-| ------------------- | ------------- | ---------------------------------------------- | --------------- |
-| Morganna Giovanelli | São Paulo, SP | [@morgannadev](https://github.com/morgannadev) | Founding member |
-
-## Interested in becoming a leader? 🌟
-
-If you're passionate about building and nurturing developer communities, we'd love to have you join our program! Here's how you can get started:
-
-1. 📚 Review the [GitHub Community Leaders Program Guidelines](program/guidelines.md) to understand the responsibilities and expectations.
-2. 📝 Fill out the [self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLScDFfPzAhhodFyt4aJy7j_umMc6ifjribc-hw4r-EuzNtZf8w/viewform).
-3. ⏳ Our team will review your application and get back to you within 2 weeks.
-4. 🎬 If shortlisted, you'll be invited for a video interview to discuss your application and community engagement plan in more detail. Upon acceptance, you'll go through an onboarding process and self-paced training to equip you with the necessary skills and resources to succeed as a community leader.
-5. 📦 If accepted, you'll receive an onboarding package and be connected with a `DevRel` lead to guide you through your journey.
-
-We look forward to having you as part of our global community of leaders! If you have any questions, feel free to leave a question in this [Discussion](https://github.com/gittogethers/community-leaders/discussions/categories/program-questions). 🤔
