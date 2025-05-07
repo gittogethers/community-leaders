@@ -21,7 +21,7 @@ GitTogether Community Leaders are individuals who play a pivotal role in driving
 | LATAM | Argentina | [Buenos Aires](https://github.com/gittogethers/buenosaires) | GMT-3 | [Eduardo Spotti](https://github.com/espotti) | ![](https://avatars.githubusercontent.com/espotti?s=64) |
 | LATAM | Mexico | [CDMX](https://github.com/gittogethers/cdmx) | GMT-6 | [Alejandra Perez](https://github.com/aleepsy) | ![](https://avatars.githubusercontent.com/aleepsy?s=64) |
 | LATAM | Mexico | [CDMX](https://github.com/gittogethers/cdmx) | GMT-6 | [Manuel Ortiz](https://github.com/ManuOSMx) | ![](https://avatars.githubusercontent.com/ManuOSMx?s=64) |
-| LATAM | Brazil | [Florianopolis](https://github.com/gittogethers/florianopolis) | GMT-3 | [Geraldo Castro](https://github.com/exageraldo) | ![](https://avatars.githubusercontent.com/exageraldo?s=64) |
+| LATAM | Brazil | [Florianopolis](https://github.com/gittogethers/florianopolis) | GMT-3 | [Camila Maia](https://github.com/camilamaia) | ![](https://avatars.githubusercontent.com/camilamaia?s=64) |
 | LATAM | Brazil | [Fortaleza](https://github.com/gittogethers/fortaleza) | GMT-3 | [Bruno Lopes](https://github.com/brunolopesjn) | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64) |
 | LATAM | Guatemala | [Guatemala City](https://github.com/gittogethers/guatemala) | GMT-6 | [Dorian Hidalgo](https://github.com/dahidalgo) | ![](https://avatars.githubusercontent.com/dahidalgo?s=64) |
 | LATAM | Guatemala | [Guatemala City](https://github.com/gittogethers/guatemala) | GMT-6 | [Kevin Villatoro](https://github.com/Shockerex) | ![](https://avatars.githubusercontent.com/Shockerex?s=64) |
